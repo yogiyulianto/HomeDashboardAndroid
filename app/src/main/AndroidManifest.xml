@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".Bank" />
-        <activity android:name=".Point"></activity>
+        <activity android:name=".Point" />
+        <activity android:name=".File" />
+        <activity android:name=".Idea"></activity>
     </application>
 
 </manifest>
